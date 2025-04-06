@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Alfred"
-  avatar           : '/assets/images/Sam.jpg"
+  avatar           : "/assets/images/Sam.jpg"
   bio              : "Team Jesus, PhD (Mech. Engr), Applied Maths (MSc), Mechanics & AI, Adjunct Faculty, Husband to an amazing woman"
   location         : "Washington DC"
   links:
