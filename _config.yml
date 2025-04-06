@@ -115,19 +115,21 @@ analytics:
 author:
   name             : "Samuel Alfred"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "#Team Jesus | PhD (Mech. Engr) | Applied Maths (MSc) | Mechanics & AI | Adjunct Faculty | Husband to an amazing woman"
+  bio              : "Team Jesus, PhD (Mech. Engr), Applied Maths (MSc), Mechanics & AI, Adjunct Faculty, Husband to an amazing woman"
   location         : "Washington DC"
-  email            : "Samoalfred@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "Samoalfred@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/samoalfred"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-alfred-b1180817/""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samoalfred"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/samoalfred"
 # Site Footer
 footer:
   links:
