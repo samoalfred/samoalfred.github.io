@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "Samoalfred@gmail.com"
+      url: "mailto: Samoalfred@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-alfred-b1180817/"
