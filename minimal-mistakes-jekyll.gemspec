@@ -1,6 +1,6 @@
 require "json"
 
-package_json = JSON.parse(File.read("package.json"))
+package_json = JSON.parse(File.read(File.expand_path("package.json", __dir__)))
 
 Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
