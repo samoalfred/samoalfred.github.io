@@ -12,3 +12,16 @@ search: false
     text-align: justify;  
     font-size: 0.9em;   
   }
+.list--square {
+  list-style-type: square;
+  font-size: 0.75em;
+}
+
+.list--square li strong {
+  color: #615d5d;; 
+  font-weight: bold;
+}
+
+#degrees {
+  color: #615d5d;; 
+}
