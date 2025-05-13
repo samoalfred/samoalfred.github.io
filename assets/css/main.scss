@@ -25,3 +25,19 @@ search: false
 #degrees {
   color: #615d5d;; 
 }
+
+.bibliography {
+  font-size: 0.7em;
+}
+
+.bibliography li {
+  text-align: justify;
+  margin-bottom: 1.0em;
+}
+
+.masthead__menu-item.active a {
+  color: #777777;     
+  pointer-events: none;     
+  cursor: default;       
+  text-decoration: none; 
+}

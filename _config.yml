@@ -260,6 +260,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -320,3 +321,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+scholar:
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
+  source: _bibliography
+  bibliography: papers.bib
