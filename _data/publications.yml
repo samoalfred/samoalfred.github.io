@@ -1,0 +1,93 @@
+- id: alfred2025tensile
+  type: article
+  title: "Tensile and fatigue properties of Haynes® 233 Manufactured by wire-arc additive manufacturing"
+  authors: "Alfred, Samuel Onimpa and Liou, Frank and Amiri, Mehdi"
+  journal: "Materials Letters"
+  pages: "138733"
+  year: 2025
+  month: "05"
+  publisher: "Elsevier"
+  doi: "10.1016/j.matlet.2025.138733"
+
+- id: alfred2025microstructure
+  type: article
+  title: "Microstructure and Mechanical Properties of Wire Arc Additively Manufactured Haynes 233"
+  authors: "Alfred, Samuel Onimpa and Omoniyi, Peter and Owolabi, Gbadebo and Amiri, Mehdi"
+  journal: "Materials Science and Engineering: A"
+  pages: "148395"
+  year: 2025
+  month: "04"
+  publisher: "Elsevier"
+  doi: "10.1016/j.msea.2025.148395"
+
+- id: alfred2025data
+  type: article
+  title: "A data-informed knowledge discovery framework to predict fatigue properties of additively manufactured Ti–6Al–4V, IN718 and AlSi10Mg alloys using fatigue databases"
+  authors: "Alfred, Samuel Onimpa and Amiri, Mehdi"
+  journal: "Progress in Additive Manufacturing"
+  pages: "1–28"
+  year: 2025
+  month: "01"
+  publisher: "Springer"
+  doi: "10.1007/s40964-025-00965-1"
+
+- id: alfred2025high
+  type: article
+  title: "High-Temperature Fatigue of Additively Manufactured Inconel 718: A Short Review"
+  authors: "Alfred, Samuel Onimpa and Amiri, Mehdi"
+  journal: "Journal of Engineering Materials and Technology"
+  volume: "147"
+  number: "1"
+  year: 2025
+  month: "01"
+  publisher: "American Society of Mechanical Engineers Digital Collection"
+  doi: "10.1115/1.4066048"
+
+- id: saberi2022effects
+  type: article
+  title: "Effects of quenching on corrosion and hardness of aluminum alloy 7075-T6"
+  authors: "Saberi, Leila and Alfred, Samuel Onimpa and Amiri, Mehdi"
+  journal: "Energies"
+  volume: "15"
+  number: "22"
+  pages: "8391"
+  year: 2022
+  month: "11"
+  publisher: "MDPI"
+  doi: "https://doi.org/10.3390/en15228391"
+
+- id: truong2022does
+  type: article
+  title: "Does your team know how to respond safely to an operating room fire? Outcomes of a virtual reality, AI-enhanced simulation training"
+  authors: "Truong, Hung and Qi, Di and Ryason, Adam and Sullivan, Amy M and Cudmore, Jaime and Alfred, Samuel and Jones, Stephanie B and Parra, Jose M and De, Suvranu and Jones, Daniel B"
+  journal: "Surgical endoscopy"
+  pages: "1–9"
+  year: 2022
+  month: "05"
+  publisher: "Springer"
+  doi: "10.1007/s00464-021-08602-y"
+
+- id: milef2021disruptions
+  type: article
+  title: "Disruptions to shared mental models from poor quality of service in collaborative virtual environments"
+  authors: "Milef, Nicholas and Ryason, Adam and Qi, Di and Alfred, Samuel O and Jackson, Cullen D and De, Suvranu"
+  journal: "Scientific reports"
+  volume: "11"
+  number: "1"
+  pages: "23556"
+  year: 2021
+  month: "12"
+  publisher: "Nature Publishing Group UK London"
+  doi: "10.1038/s41598-021-02567-7"
+
+- id: qi2021virtual
+  type: article
+  title: "Virtual reality operating room with AI guidance: design and validation of a fire scenario"
+  authors: "Qi, Di and Ryason, Adam and Milef, Nicholas and Alfred, Samuel and Abu-Nuwar, Mohamad Rassoul and Kappus, Mojdeh and De, Suvranu and Jones, Daniel B"
+  journal: "Surgical endoscopy"
+  volume: "35"
+  pages: "779–786"
+  year: 2021
+  month: "02"
+  publisher: "Springer"
+  doi: "10.1007/s00464-020-07447-1"

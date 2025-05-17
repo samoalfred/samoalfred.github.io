@@ -1,6 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Conferences"
+    url: /conferences/
+  - title: "CV"
+    url: /cv/

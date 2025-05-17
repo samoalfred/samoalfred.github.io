@@ -4,12 +4,6 @@ layout: single
 author_profile: true
 ---
 
-### Current Research / Projects
+Samuel Onimpa Alfred is a researcher at [George Mason University](https://www.gmu.edu/) in Fairfax, Virginia. He holds a Bachelor of Engineering degree in Mechanical Engineering from the [University of Benin](https://www.uniben.edu/), Nigeria, and Master of Science and Master of Engineering degrees in Mechanical Engineering from the [University of Portsmouth](https://www.port.ac.uk/), United Kingdom, and [Rensselaer Polytechnic Institute](https://www.rpi.edu/), United States, respectively. He earned his PhD in Mechanical Engineering with a dissertation titled “*Fatigue of Additively Manufactured Nickel-Based Superalloys Under Harsh Environments.*”
 
-### Degrees
-
-* **PhD**, **Mechanical Engineering,** George Mason University, USA
-* **MSc**, **Applied Mathematics,** Rensselaer Polytechic Institute, USA
-* **MSc**, **Mechanical Engineering,** University of Portsmouth, United Kingdom
-* **BEng**, **Mechanical Engineering,** University of Benin, Nigeria
-{:.list--square}
+His research broadly focuses on understanding the mechanisms of material failure and predicting failure behavior under various environmental and loading conditions. To achieve this, he integrates experimental characterization, computational modeling, and data-driven techniques to advance fundamental knowledge and improve the reliability assessment of engineering materials.

@@ -41,3 +41,55 @@ search: false
   cursor: default;       
   text-decoration: none; 
 }
+
+.page__content p { 
+  font-size: 0.7em; 
+  text-align: justify; 
+
+}
+
+.custom-teaching-list {
+  
+  font-size: 0.7rem; 
+  text-align: justify;
+
+  h3 {
+    
+    font-size: 1.5em; 
+  }
+
+  ul {
+    list-style-type: square; 
+    padding-left: 40px; 
+
+    li {
+      margin-bottom: 0.25em; 
+    }
+  }
+}
+
+.conferences-list {
+  
+  font-size: 0.7rem; 
+  text-align: justify;
+
+  h3 {
+    
+    font-size: 1.5em; 
+  }
+
+  ul {
+    list-style-type: square; 
+    padding-left: 40px; 
+
+    li {
+      margin-bottom: 0.25em; 
+    }
+  }
+}
+
+a.site-title.active {
+  pointer-events: none; 
+  color: inherit; 
+  cursor: default;
+}
