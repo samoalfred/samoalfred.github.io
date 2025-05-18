@@ -29,3 +29,8 @@ By connecting theory to practice and encouraging inquiry-based learning, I aim t
 * ENGR 107: Introduction to Engineering Analysis (Fall 2018)
 
 </div>
+
+<div class="course-catalog-link-section" markdown="1">
+For more detailed descriptions of these courses, please see the [George Mason University Mechanical Engineering Course Catalogue]({{ "/assets/files/course_catalog.pdf" | relative_url }}).
+</div>
+
