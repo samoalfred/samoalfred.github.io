@@ -35,12 +35,7 @@ search: false
   margin-bottom: 1.0em;
 }
 
-.masthead__menu-item.active a {
-  color: #777777;     
-  pointer-events: none;     
-  cursor: default;       
-  text-decoration: none; 
-}
+
 
 .page__content p { 
   font-size: 0.7em; 
@@ -86,6 +81,13 @@ search: false
       margin-bottom: 0.25em; 
     }
   }
+}
+
+.masthead__menu-item.active a {
+  color: #777777;     
+  pointer-events: none;     
+  cursor: default;       
+  text-decoration: none; 
 }
 
 a.site-title.active {

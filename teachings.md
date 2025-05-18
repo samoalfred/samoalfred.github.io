@@ -15,17 +15,17 @@ By connecting theory to practice and encouraging inquiry-based learning, I aim t
 
 ### Classes Taught as a Teaching Assistant and Instructor
 
-* Dynamics (Spring 2022, Spring 2025)
-* Statics (Spring 2022, Fall 2024)
-* Design of Mechanical Elements (Fall 2021, Spring 2024)
-* Heat Transfer (Spring 2024)
-* Material Science (Fall 2021, Spring 2022, Fall 2023, Spring 2024)
-* Mechanical Experimentation 1 (Fall 2023)
-* Practicum Engineering (Spring 2022)
-* Solid Mechanics (Fall 2021)
-* Design of Machine Elements (Fall 2020)
+* ME 231: Dynamics (Spring 2022, Spring 2025)
+* ME 211: Statics (Spring 2022, Fall 2024)
+* ME 341: Design of Mechanical Elements (Fall 2021, Spring 2024)
+* ME 323: Heat Transfer (Spring 2024)
+* ME 313: Material Science (Fall 2021, Spring 2022, Fall 2023, Spring 2024)
+* ME 311: Mechanical Experimentation 1 (Fall 2023)
+* ME 151: Practicum in Engineering (Spring 2022)
+* ME 212: Solid Mechanics (Fall 2021)
+* ME 341: Design of Machine Elements (Fall 2020)
 * Data Science (Summer 2020)
 * Thermofluids and Heat Transfer (Fall 2019)
-* Introduction to Engineering Analysis (Fall 2018)
+* ENGR 107: Introduction to Engineering Analysis (Fall 2018)
 
 </div>
