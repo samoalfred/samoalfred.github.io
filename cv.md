@@ -12,16 +12,20 @@ author_profile: true
 ### Degrees
 
 * **Ph.D., Mechanical Engineering** George Mason University, Fairfax, VA, USA  
-    *Advisor: Dr. Mehdi Amiri* *Dissertation: "Fatigue of Additively Manufactured Nickel-Based Superalloys Under Harsh Environments."*
+    *Advisor: Dr. Mehdi Amiri*<br> 
+    *Dissertation: "Fatigue of Additively Manufactured Nickel-Based Superalloys Under Harsh Environments."*
 
 * **MEng, Mechanical Engineering / Applied Mathematics** Rensselaer Polytechnic Institute, Troy, NY, USA  
-    *Advisor: Dr. Survanu De* *Project: "Virtual Intelligent Preceptor; A Deep Learning-based Learner Model Development"*
+    *Advisor: Dr. Survanu De*<br>
+    *Project: "Virtual Intelligent Preceptor; A Deep Learning-based Learner Model Development"*
 
 * **M.Sc., Mechanical Engineering** University of Portsmouth, Portsmouth, United Kingdom  
-    *Advisor: Dr. James Buick* *Thesis: "CFD design for a Recirculating Swimming Pool"*
+    *Advisor: Dr. James Buick*<br> 
+    *Thesis: "CFD design for a Recirculating Swimming Pool"*
 
 * **B.Eng., Mechanical Engineering** University of Benin, Benin City, Nigeria  
-    *Advisor: Dr. Godfrey Ariavie* *Project: "Reliability Assessment of the Central Generating Power Plant of the University of Benin"*
+    *Advisor: Dr. Godfrey Ariavie*<br>
+    *Project: "Reliability Assessment of the Central Generating Power Plant of the University of Benin"*
 
 ## Skills
 
