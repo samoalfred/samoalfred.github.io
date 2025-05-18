@@ -123,49 +123,31 @@ a.site-title.active {
 }
 
 .cv-content-styled {
-  // --- Set Base Font Size for the Entire CV Content Block (Education, Skills, etc.) ---
-  font-size: 0.7em; // Example: 90% of the normal paragraph font size. Adjust as needed.
-                    // Try values like 0.85em, 0.95em, 1em (for no change), 15px, etc.
+  font-size: 0.7em;
 
-  // --- Text Justification for the Entire Block ---
   text-align: justify;
 
-  // --- Styling for Headings within this block ---
   h2 { 
-    // Example: Adjust H2 size relative to the new base font size of the block
-    // font-size: 1.5em; // This would be 1.5 * 0.9em = 1.35em of the original base
-    margin-top: 2em;    // Space above main section headings like "Education", "Skills"
+    margin-top: 2em;
     margin-bottom: 1em;
   }
 
   h3 {
-    // Example: Adjust H3 size relative to the new base font size of the block
-    // font-size: 1.2em; // This would be 1.2 * 0.9em = 1.08em of the original base
     margin-top: 1em;
     margin-bottom: 0.5em;
   }
 
-  // --- Styling for Paragraphs within this block (like advisor/dissertation lines) ---
   p { 
-    // If your advisor/dissertation lines are separate <p> tags or become <p> after markdown processing
-    // for list items, you might want to ensure their font size is consistent.
-    // '1em' here makes them the same size as the surrounding list item text (0.9em from the parent).
     font-size: 1.0em; 
-    line-height: 1.6; // Adjust line height if needed for smaller text
   }
 
-  // --- Styling for Unordered Lists (bullet points) within this block ---
   ul {
-    list-style-type: square; // Change bullets to squares
-    padding-left: 20px;      // Adjust padding for square bullets
+    list-style-type: square;
+    padding-left: 40px;     
 
     li {
-      margin-bottom: 0.5em; // Space between list items (e.g., between degrees, or between skills)
-      // The font-size for text inside <li> will be inherited from .cv-content-styled (0.9em in this example)
-      // unless overridden by more specific theme styles for li.
-      // To be absolutely sure list items also get the intended scaled size:
-      font-size: 1em; // This ensures li text is 100% of the .cv-content-styled font-size
-      line-height: 1.6; // Consistent line height
+      margin-bottom: 0.5em; 
+      font-size: 1em;
     }
   }
 }
