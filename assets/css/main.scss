@@ -84,16 +84,12 @@ search: false
 }
 
 .masthead__menu-item.active a {
-  color: #777777;     
-  pointer-events: none;     
-  cursor: default;       
-  text-decoration: none; 
+  color: #777777;         
+  text-decoration: underline;
 }
 
 a.site-title.active {
-  pointer-events: none; 
   color: inherit; 
-  cursor: default;
 }
 
 .research-areas-custom {
