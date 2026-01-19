@@ -10,7 +10,7 @@ author_profile: true
 My research areas include:
 
 * Mechanics of materials (fatigue, fracture, creep, corrosion)
-* Additive manufacturing of metals, composites and polymers
+* Additive manufacturing (High performnce alloys)
 * Environment-assisted cracking
 * Materials informatics
 * Multiscale modeling (Molecular dynamics, crystal plasticity, phase-field)
@@ -18,10 +18,10 @@ My research areas include:
 * Virtual surgery
 </div>
 
-<!--
+
 
 <div class="research-areas-profile" markdown="1">
 
-![Research Profile](/assets/images/UMich.png)
+![Research Profile](/assets/images/Opening _page.png)
 
-</div>   -->
+</div>  
