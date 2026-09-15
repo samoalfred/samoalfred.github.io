@@ -1,3 +1,56 @@
+- id: alfred2026nitinol
+  type: article
+  title: "Triboinformatic modeling of nitinol alloys under different heat-treatment regimes"
+  authors: "Alfred, Samuel Onimpa"
+  journal: "Journal of Materials Science"
+  year: 2026
+  publisher: "Springer"
+  doi: "10.1007/s10853-026-13713-9"
+
+- id: alfred2026fromdata
+  type: article
+  title: "From data to theory: Autonomous large language model agents for materials science"
+  authors: "Alfred, Samuel Onimpa and Sundararaghavan, Veera"
+  journal: "Computational Materials Science"
+  volume: "272"
+  pages: "114862"
+  year: 2026
+  publisher: "Elsevier"
+  doi: "10.1016/j.commatsci.2026.114862"
+
+- id: alfred2026surface
+  type: article
+  title: "Surface-Condition-Driven Fatigue Performance of Laser Powder Bed Fusion-Manufactured Alloys"
+  authors: "Alfred, Samuel Onimpa"
+  journal: "Surfaces"
+  volume: "9"
+  number: "3"
+  pages: "65"
+  year: 2026
+  publisher: "MDPI"
+  doi: "10.3390/surfaces9030065"
+
+- id: alfred2026fcg
+  type: article
+  title: "Fatigue Crack Growth Phenomena in Additively Manufactured Ti-6Al-4V"
+  authors: "Alfred, Samuel Onimpa"
+  journal: "Iranian Journal of Science and Technology, Transactions of Mechanical Engineering"
+  year: 2026
+  publisher: "Springer"
+  doi: "10.1007/s40997-026-00992-5"
+
+- id: omoniyi2026corrosion
+  type: article
+  title: "Corrosion Behavior of Haynes® 233 Manufactured by Wire Arc Additive Manufacturing in 3.5 wt%. NaCl"
+  authors: "Omoniyi, Peter and Alfred, Samuel Onimpa and Looby, K and Bamiduro, O and Odeshi, A and Amiri, Mehdi and others"
+  journal: "Journal of Bio-and Tribo-Corrosion"
+  volume: "12"
+  number: "1"
+  pages: "20"
+  year: 2026
+  publisher: "Springer"
+  doi: "10.1007/s40735-025-01088-4"
+
 - id: alfred2025tensile
   type: article
   title: "Tensile and fatigue properties of Haynes® 233 Manufactured by wire-arc additive manufacturing"
