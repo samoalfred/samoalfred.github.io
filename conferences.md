@@ -10,7 +10,7 @@ I have had the opportunity to attend and participate in the following conference
 
 ### Conferences and Workshops Attended
 
-* AI-Empowered Simulations & CAE Applications via Engineering Software 3.0, September 9–11, 2026, Texas, USA.
+* [AI-Empowered Simulations & CAE Applications via Engineering Software 3.0](https://aescape2026.usacm.org/program), September 9–11, 2026, Texas, USA.
 * [PRISMS Center Annual Workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop), August 24–27, 2026, University of Michigan, Ann Arbor, MI, USA.
 * [PRISMS Center Annual Workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop), August 7–8, 2025, University of Michigan, Ann Arbor, MI, USA.
 * [East Coast Optimization Meeting (ECOM 2025)](https://math.gmu.edu/~hantil/ECOM/2025/), April 17–18, 2025, Van Metre Hall, George Mason University, Arlington Campus, USA.
