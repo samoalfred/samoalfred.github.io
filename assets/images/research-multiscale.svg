@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-labelledby="t d">
+<title id="t">From process to performance</title>
+<desc id="d">Four panels left to right: process scan strategy, microstructure grains and defects, deformation by crystal plasticity, and defect-aware fatigue life, linked below by scientific machine learning and LLM agents, serving aerospace, energy and nuclear applications.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-anchor:middle;dominant-baseline:central}
+.h{font-size:15px;font-weight:600;fill:#2C2C2A}.s{font-size:12px;fill:#5F5E5A}
+</style>
+<defs>
+<marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#5F5E5A"/></marker>
+</defs>
+<g fill="#F7F6F2" stroke="#B4B2A9">
+<rect x="40" y="40" width="135" height="170" rx="10"/>
+<rect x="195" y="40" width="135" height="170" rx="10"/>
+<rect x="350" y="40" width="135" height="170" rx="10"/>
+<rect x="505" y="40" width="135" height="170" rx="10"/>
+</g>
+<g stroke-linecap="round" stroke-width="3.5">
+<line x1="58" y1="62" x2="157" y2="62" stroke="#D3D1C7"/>
+<line x1="157" y1="76" x2="58" y2="76" stroke="#D3D1C7"/>
+<line x1="58" y1="90" x2="157" y2="90" stroke="#FAC775"/>
+<line x1="157" y1="104" x2="58" y2="104" stroke="#FAC775"/>
+<line x1="58" y1="118" x2="157" y2="118" stroke="#EF9F27"/>
+<line x1="157" y1="132" x2="96" y2="132" stroke="#EF9F27"/>
+</g>
+<circle cx="92" cy="132" r="10" fill="#D85A30" opacity="0.25"/>
+<circle cx="92" cy="132" r="5" fill="#D85A30"/>
+<g stroke="#0F6E56" stroke-width="0.9" stroke-linejoin="round">
+<polygon points="212,58 252,58 247,88 212,93" fill="#9FE1CB"/>
+<polygon points="252,58 292,58 287,83 247,88" fill="#5DCAA5"/>
+<polygon points="292,58 314,58 314,98 287,83" fill="#E1F5EE"/>
+<polygon points="212,93 247,88 257,118 232,140 212,140" fill="#5DCAA5"/>
+<polygon points="247,88 287,83 292,113 257,118" fill="#1D9E75"/>
+<polygon points="287,83 314,98 314,140 302,140 292,113" fill="#9FE1CB"/>
+<polygon points="232,140 257,118 292,113 302,140" fill="#E1F5EE"/>
+</g>
+<circle cx="268" cy="100" r="3" fill="#2C2C2A"/>
+<circle cx="300" cy="126" r="2" fill="#2C2C2A"/>
+<g fill="none" stroke="#888780" stroke-width="1.2">
+<path d="M366 58V140H470"/>
+<path d="M521 58V140H625"/>
+</g>
+<path d="M366 140L386 92Q398 78 424 73T468 68" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#D85A30"><circle cx="376" cy="116" r="2.8"/><circle cx="393" cy="86" r="2.8"/><circle cx="418" cy="75" r="2.8"/><circle cx="448" cy="71" r="2.8"/></g>
+<path d="M527 66C552 76 575 108 625 120" fill="none" stroke="#D85A30" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#888780"><circle cx="533" cy="74" r="2.8"/><circle cx="546" cy="80" r="2.8"/><circle cx="558" cy="95" r="2.8"/><circle cx="573" cy="99" r="2.8"/><circle cx="592" cy="113" r="2.8"/><circle cx="610" cy="114" r="2.8"/></g>
+<text class="h" x="107" y="170">Process</text>
+<text class="s" x="107" y="190">Scan strategy</text>
+<text class="h" x="262" y="170">Microstructure</text>
+<text class="s" x="262" y="190">Grains and defects</text>
+<text class="h" x="417" y="170">Deformation</text>
+<text class="s" x="417" y="190">Crystal plasticity</text>
+<text class="h" x="572" y="170">Fatigue life</text>
+<text class="s" x="572" y="190">Defect-aware S–N</text>
+<g stroke="#5F5E5A" stroke-width="1.5">
+<line x1="177" y1="100" x2="192" y2="100" marker-end="url(#mg)"/>
+<line x1="332" y1="100" x2="347" y2="100" marker-end="url(#mg)"/>
+<line x1="487" y1="100" x2="502" y2="100" marker-end="url(#mg)"/>
+</g>
+<g stroke="#7F77DD" stroke-width="1.2" stroke-dasharray="3 3">
+<line x1="107" y1="212" x2="107" y2="234"/><line x1="262" y1="212" x2="262" y2="234"/><line x1="417" y1="212" x2="417" y2="234"/><line x1="572" y1="212" x2="572" y2="234"/>
+</g>
+<rect x="40" y="236" width="600" height="58" rx="10" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="340" y="256" style="font-size:15px;font-weight:600;fill:#3C3489">Scientific machine learning and LLM agents</text>
+<text x="340" y="276" style="font-size:12px;fill:#534AB7">Surrogate models · probabilistic life prediction · autonomous workflows</text>
+<text class="s" x="340" y="318">Aerospace · Energy · Nuclear service</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" role="img" aria-labelledby="t d">
+<title id="t">Research overview</title>
+<desc id="d">Experiments, multiscale modeling, and scientific machine learning converge on reliable additively manufactured alloys, which serve aerospace, energy and nuclear applications.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-anchor:middle;dominant-baseline:central}
+.h{font-size:15px;font-weight:600}.s{font-size:12px}
+</style>
+<defs>
+<marker id="mt" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#1D9E75"/></marker>
+<marker id="mp" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#7F77DD"/></marker>
+<marker id="mc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#D85A30"/></marker>
+<marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#BA7517"/></marker>
+</defs>
+<rect x="40" y="50" width="190" height="56" rx="8" fill="#E1F5EE" stroke="#0F6E56"/>
+<text class="h" x="135" y="69" fill="#085041">Experiments</text>
+<text class="s" x="135" y="89" fill="#0F6E56">Fatigue, creep, corrosion</text>
+<rect x="40" y="140" width="190" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7"/>
+<text class="h" x="135" y="159" fill="#3C3489">Multiscale modeling</text>
+<text class="s" x="135" y="179" fill="#534AB7">CPFE, MD, phase-field</text>
+<rect x="40" y="230" width="190" height="56" rx="8" fill="#FAECE7" stroke="#993C1D"/>
+<text class="h" x="135" y="249" fill="#712B13">Scientific ML</text>
+<text class="s" x="135" y="269" fill="#993C1D">Surrogates, LLM agents</text>
+<path d="M232 78C258 78 252 150 276 159" fill="none" stroke="#1D9E75" stroke-width="2" marker-end="url(#mt)"/>
+<path d="M232 168L273 168" fill="none" stroke="#7F77DD" stroke-width="2" marker-end="url(#mp)"/>
+<path d="M232 258C258 258 252 186 276 177" fill="none" stroke="#D85A30" stroke-width="2" marker-end="url(#mc)"/>
+<circle cx="342" cy="168" r="64" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+<text class="h" x="342" y="151" fill="#633806">Reliable</text>
+<text class="h" x="342" y="172" fill="#633806">AM alloys</text>
+<text class="s" x="342" y="195" fill="#854F0B">Life prediction</text>
+<path d="M408 160C442 150 450 78 484 78" fill="none" stroke="#BA7517" stroke-width="2" marker-end="url(#ma)"/>
+<path d="M408 168L484 168" fill="none" stroke="#BA7517" stroke-width="2" marker-end="url(#ma)"/>
+<path d="M408 176C442 186 450 258 484 258" fill="none" stroke="#BA7517" stroke-width="2" marker-end="url(#ma)"/>
+<rect x="490" y="56" width="150" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text class="h" x="565" y="78" fill="#2C2C2A">Aerospace</text>
+<rect x="490" y="146" width="150" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text class="h" x="565" y="168" fill="#2C2C2A">Energy</text>
+<rect x="490" y="236" width="150" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text class="h" x="565" y="258" fill="#2C2C2A">Nuclear</text>
+</svg>

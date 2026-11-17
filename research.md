@@ -7,21 +7,38 @@ author_profile: true
 
 <div class="research-areas-custom" markdown="1">
 
+I study how additively manufactured alloys fail, and how to predict it, by combining experiments, multiscale modeling, and AI.
+
+<figure class="research-figure">
+  <img src="/assets/images/research-overview.svg" alt="Experiments, multiscale modeling, and scientific machine learning converge on reliable additively manufactured alloys for aerospace, energy, and nuclear applications">
+</figure>
+
 My research areas include:
 
+<p class="research-group"><span class="research-dot teal"></span><strong>Experiments</strong></p>
+
 * Mechanics of materials (fatigue, fracture, creep, corrosion)
-* Additive manufacturing (High performance alloys)
 * Environment-assisted cracking
-* Materials informatics
+* Additive manufacturing (High performance alloys)
+
+<p class="research-group"><span class="research-dot purple"></span><strong>Multiscale modeling</strong></p>
+
 * Multiscale modeling (Molecular dynamics, crystal plasticity, phase-field)
+
+<p class="research-group"><span class="research-dot coral"></span><strong>Scientific machine learning</strong></p>
+
 * Scientific machine learning
+* Materials informatics
+
+<p class="research-group"><span class="research-dot gray"></span><strong>Earlier work</strong></p>
+
 * Virtual surgery
+
+### From process to performance
+
+<figure class="research-figure">
+  <img src="/assets/images/research-multiscale.svg" alt="Process scan strategy leads to microstructure, deformation, and fatigue life, with scientific machine learning and LLM agents linking every stage">
+  <figcaption>The scan strategy shapes the microstructure, the microstructure governs deformation, and deformation sets fatigue life. Scientific machine learning and LLM agents connect every stage.</figcaption>
+</figure>
+
 </div>
-
-
-
-<div class="research-areas-profile" markdown="1">
-
-![Research Profile](/assets/images/Opening _page.png)
-
-</div>  
