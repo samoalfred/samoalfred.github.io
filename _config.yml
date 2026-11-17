@@ -121,7 +121,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto: Samoalfred@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-o-alfred-b1180817/"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
