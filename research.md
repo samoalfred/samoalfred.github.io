@@ -10,7 +10,7 @@ author_profile: true
 My research areas include:
 
 * Mechanics of materials (fatigue, fracture, creep, corrosion)
-* Additive manufacturing (High performnce alloys)
+* Additive manufacturing (High performance alloys)
 * Environment-assisted cracking
 * Materials informatics
 * Multiscale modeling (Molecular dynamics, crystal plasticity, phase-field)
