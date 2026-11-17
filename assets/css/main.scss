@@ -140,8 +140,10 @@ a.site-title.active {
   }
 }
 .research-figure {
+  display: block;
   margin: 1.5em 0;
-  img { width: 100%; height: auto; }
+  picture { display: block; width: 100%; }
+  img { display: block; width: 100%; height: auto; }
   figcaption { font-family: inherit; font-size: 0.9em; text-align: center; color: #5F5E5A; margin: 0.5em auto 0; }
 }
 
