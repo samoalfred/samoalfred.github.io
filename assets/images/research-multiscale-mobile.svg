@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 572" role="img" aria-labelledby="t d">
+<title id="t">From process to performance</title>
+<desc id="d">Four stages top to bottom: process scan strategy, microstructure grains and defects, deformation by crystal plasticity, and defect-aware fatigue life, linked by scientific machine learning and LLM agents, serving aerospace, energy and nuclear applications.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;dominant-baseline:central}
+.h{font-size:15px;font-weight:600;fill:#2C2C2A}.s{font-size:13px;fill:#5F5E5A}.c{text-anchor:middle}
+</style>
+<defs>
+<marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#5F5E5A"/></marker>
+<marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#7F77DD"/></marker>
+</defs>
+<g fill="#F7F6F2" stroke="#B4B2A9">
+<rect x="20" y="16" width="320" height="90" rx="10"/>
+<rect x="20" y="126" width="320" height="90" rx="10"/>
+<rect x="20" y="236" width="320" height="90" rx="10"/>
+<rect x="20" y="346" width="320" height="90" rx="10"/>
+</g>
+<g transform="translate(-7,-13) scale(0.75)">
+<g stroke-linecap="round" stroke-width="3.5">
+<line x1="58" y1="62" x2="157" y2="62" stroke="#D3D1C7"/>
+<line x1="157" y1="76" x2="58" y2="76" stroke="#D3D1C7"/>
+<line x1="58" y1="90" x2="157" y2="90" stroke="#FAC775"/>
+<line x1="157" y1="104" x2="58" y2="104" stroke="#FAC775"/>
+<line x1="58" y1="118" x2="157" y2="118" stroke="#EF9F27"/>
+<line x1="157" y1="132" x2="96" y2="132" stroke="#EF9F27"/>
+</g>
+<circle cx="92" cy="132" r="10" fill="#D85A30" opacity="0.25"/>
+<circle cx="92" cy="132" r="5" fill="#D85A30"/>
+</g>
+<g transform="translate(-123.25,97) scale(0.75)">
+<g stroke="#0F6E56" stroke-width="0.9" stroke-linejoin="round">
+<polygon points="212,58 252,58 247,88 212,93" fill="#9FE1CB"/>
+<polygon points="252,58 292,58 287,83 247,88" fill="#5DCAA5"/>
+<polygon points="292,58 314,58 314,98 287,83" fill="#E1F5EE"/>
+<polygon points="212,93 247,88 257,118 232,140 212,140" fill="#5DCAA5"/>
+<polygon points="247,88 287,83 292,113 257,118" fill="#1D9E75"/>
+<polygon points="287,83 314,98 314,140 302,140 292,113" fill="#9FE1CB"/>
+<polygon points="232,140 257,118 292,113 302,140" fill="#E1F5EE"/>
+</g>
+<circle cx="268" cy="100" r="3" fill="#2C2C2A"/>
+<circle cx="300" cy="126" r="2" fill="#2C2C2A"/>
+</g>
+<g transform="translate(-239.5,207) scale(0.75)">
+<path d="M366 58V140H470" fill="none" stroke="#888780" stroke-width="1.2"/>
+<path d="M366 140L386 92Q398 78 424 73T468 68" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#D85A30"><circle cx="376" cy="116" r="2.8"/><circle cx="393" cy="86" r="2.8"/><circle cx="418" cy="75" r="2.8"/><circle cx="448" cy="71" r="2.8"/></g>
+</g>
+<g transform="translate(-355.75,317) scale(0.75)">
+<path d="M521 58V140H625" fill="none" stroke="#888780" stroke-width="1.2"/>
+<path d="M527 66C552 76 575 108 625 120" fill="none" stroke="#D85A30" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#888780"><circle cx="533" cy="74" r="2.8"/><circle cx="546" cy="80" r="2.8"/><circle cx="558" cy="95" r="2.8"/><circle cx="573" cy="99" r="2.8"/><circle cx="592" cy="113" r="2.8"/><circle cx="610" cy="114" r="2.8"/></g>
+</g>
+<text class="h" x="140" y="51">Process</text>
+<text class="s" x="140" y="72">Scan strategy</text>
+<text class="h" x="140" y="161">Microstructure</text>
+<text class="s" x="140" y="182">Grains and defects</text>
+<text class="h" x="140" y="271">Deformation</text>
+<text class="s" x="140" y="292">Crystal plasticity</text>
+<text class="h" x="140" y="381">Fatigue life</text>
+<text class="s" x="140" y="402">Defect-aware S–N</text>
+<g stroke="#5F5E5A" stroke-width="1.5">
+<line x1="180" y1="108" x2="180" y2="123" marker-end="url(#mg)"/>
+<line x1="180" y1="218" x2="180" y2="233" marker-end="url(#mg)"/>
+<line x1="180" y1="328" x2="180" y2="343" marker-end="url(#mg)"/>
+</g>
+<line x1="180" y1="438" x2="180" y2="453" stroke="#7F77DD" stroke-width="1.5" stroke-dasharray="3 3"/>
+<rect x="20" y="456" width="320" height="80" rx="10" fill="#EEEDFE" stroke="#534AB7"/>
+<text class="c" x="180" y="478" style="font-size:15px;font-weight:600;fill:#3C3489">Scientific ML and LLM agents</text>
+<text class="c" x="180" y="500" style="font-size:13px;fill:#534AB7">Surrogate models · probabilistic life</text>
+<text class="c" x="180" y="518" style="font-size:13px;fill:#534AB7">prediction · autonomous workflows</text>
+<text class="s c" x="180" y="556">Aerospace · Energy · Nuclear service</text>
+</svg>
