@@ -13,6 +13,16 @@ By connecting theory to practice and encouraging inquiry-based learning, I aim t
 
 <div class="custom-teaching-list" markdown="1">
 
+### Areas of Teaching Expertise
+
+* Statics and Dynamics
+* Solid Mechanics / Mechanics of Materials
+* Vibrations and Structural Dynamics
+* Materials Science and Engineering
+* Mechanical Design and Machine Design
+* Additive Manufacturing
+* Scientific Machine Learning and AI for Engineers
+
 ### Classes Taught as a Teaching Assistant and Instructor
 
 * ME 231: Dynamics (Spring 2022, Spring 2025)

@@ -13,15 +13,15 @@ author_profile: true
 
 * **Ph.D., Mechanical Engineering** George Mason University, Fairfax, VA, USA  
     *Advisor: Dr. Mehdi Amiri*<br> 
-    *Dissertation: "Fatigue of Additively Manufactured Nickel-Based Superalloys Under Harsh Environments."*
+    *Dissertation: "Fatigue of Additively Manufactured Nickel-Based Superalloys Operating in Harsh Environments."*
 
 * **MEng, Mechanical Engineering / Applied Mathematics** Rensselaer Polytechnic Institute, Troy, NY, USA  
-    *Advisor: Dr. Survanu De*<br>
-    *Project: "Virtual Intelligent Preceptor; A Deep Learning-based Learner Model Development"*
+    *Advisor: Dr. Suvranu De*<br>
+    *Project: "Virtual Intelligent Preceptor: A Deep Learning-Based Learner Model Development"*
 
 * **M.Sc., Mechanical Engineering** University of Portsmouth, Portsmouth, United Kingdom  
     *Advisor: Dr. James Buick*<br> 
-    *Thesis: "CFD design for a Recirculating Swimming Pool"*
+    *Thesis: "CFD Design for a Recirculating Swimming Pool"*
 
 * **B.Eng., Mechanical Engineering** University of Benin, Benin City, Nigeria  
     *Advisor: Dr. Godfrey Ariavie*<br>
@@ -47,4 +47,14 @@ author_profile: true
 * <i class="fa-brands fa-uncharted"></i> SolidWorks
 * <i class="fa-brands fa-uncharted"></i> Fusion360
 
-</div> 
+## Professional Memberships
+
+* **Member**, Materials Research Society (MRS), 2025–present
+* **Member**, American Society of Mechanical Engineers (ASME), 2023–present
+
+## Service
+
+* **Reviewer** (2025–2026): Progress in Additive Manufacturing; Journal of Alloys and Compounds; Journal of the Brazilian Society of Mechanical Sciences and Engineering; The Aeronautical Journal
+* **Volunteer Judge**, Senior Design Capstone Projects, George Mason University (2024–2025)
+
+</div>

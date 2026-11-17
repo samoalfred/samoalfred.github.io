@@ -62,6 +62,18 @@
   publisher: "Springer"
   doi: "10.1007/s40735-025-01088-4"
 
+- id: omoniyi2025grx810
+  type: article
+  title: "Corrosion Behavior of Additively Manufactured GRX-810 Alloy in 3.5 wt.% NaCl"
+  authors: "Omoniyi, Peter and Alfred, Samuel Onimpa and Looby, Kenneth and Bamiduro, Olu and Amiri, Mehdi and Owolabi, Gbadebo"
+  journal: "Materials"
+  volume: "18"
+  number: "14"
+  pages: "3252"
+  year: 2025
+  publisher: "MDPI"
+  doi: "10.3390/ma18143252"
+
 - id: alfred2025tensile
   type: article
   title: "Tensile and fatigue properties of Haynes® 233 Manufactured by wire-arc additive manufacturing"
