@@ -1,3 +1,14 @@
+- id: alfred2026cpagent
+  type: article
+  title: "CP-Agent: A harness-engineered agent for crystal plasticity simulation workflows"
+  authors: "Alfred, Samuel Onimpa and Kumar, Abhishek and Sundararaghavan, Veera"
+  journal: "Computational Materials Science"
+  volume: "277"
+  pages: "115234"
+  year: 2026
+  publisher: "Elsevier"
+  doi: "10.1016/j.commatsci.2026.115234"
+
 - id: alfred2026nitinol
   type: article
   title: "Triboinformatic modeling of nitinol alloys under different heat-treatment regimes"

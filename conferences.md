@@ -10,6 +10,7 @@ I have had the opportunity to attend and participate in the following conference
 
 ### Conferences and Workshops Attended
 
+* **Invited seminar:** [Autonomous Large Language Model Agents for Materials Science: From Data-Driven Theory to Multiscale Modeling](https://coset.tsu.edu/news-events/research-seminar-33/), October 14, 2026, Texas Southern University, Houston, TX, USA.
 * [AI-Empowered Simulations & CAE Applications via Engineering Software 3.0](https://aescape2026.usacm.org/program), September 9–11, 2026, Texas, USA.
 * [PRISMS Center Annual Workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop), August 24–27, 2026, University of Michigan, Ann Arbor, MI, USA.
 * [PRISMS Center Annual Workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop), August 7–8, 2025, University of Michigan, Ann Arbor, MI, USA.
